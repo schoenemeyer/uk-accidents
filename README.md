@@ -28,7 +28,10 @@ You can run the notebook on multiple years or single years. The figure below sho
 <img src="https://github.com/schoenemeyer/uk-accidents/blob/master/figures/6years-uk-acc.PNG" width="580"> <img> 
 
 
-You can also download the data 
+You can also download the data from France.
+You can use the fr-accident-map.ipynb 
+
+<img src="https://github.com/schoenemeyer/uk-accidents/blob/master/figures/fr-2018.png" width="580"> <img> 
 
 
 ## Raw Data with geolocation
@@ -40,7 +43,7 @@ https://data.gov.uk/dataset/cb7ae6f0-4be6-4935-9277-47e5ce24a11f/road-safety-dat
 
 
 
-## France: 
+## France (ONISR)
 https://www.data.gouv.fr/en/datasets/base-de-donnees-accidents-corporels-de-la-circulation/    
 Download caracteristiques-2018.csv
 
