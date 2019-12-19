@@ -30,7 +30,7 @@ https://data.gov.uk/dataset/cb7ae6f0-4be6-4935-9277-47e5ce24a11f/road-safety-dat
 The same data you can find on kaggle (but not the most recent years)
 https://www.kaggle.com/daveianhickey/2000-16-traffic-flow-england-scotland-wales
 
-https://github.com/schoenemeyer/uk-accidents/blob/master/figures/6years-uk-acc.PNG
+<img src="https://github.com/schoenemeyer/uk-accidents/blob/master/figures/6years-uk-acc.PNG" width="580"> <img> 
 
 
 ## France: 
