@@ -1,10 +1,9 @@
-# This github is forked from João Paulo Figueira
-Inspired from a great article on medium [1]
+## Mapping of Accidents using DBSCAN
 
-It is a study on the UK accidents database
-I added data for 2017 and 2018 
+This github is forked from João Paulo Figueira. My work was inspired by a great article on medium [1] from João .
+It is a study on the UK accidents database. All I did was to add data for 2017 and 2018 and rerun the jupyter notebook.
+
 My Testing Environment (Python2.7)
-
 Python 2.7
 scipy 1.2.1
 numpy: 1.16.5
@@ -34,15 +33,11 @@ You can also download the data from France [4] . You can use the fr-accident-map
 <img src="https://github.com/schoenemeyer/uk-accidents/blob/master/figures/fr-2018.png" width="580"> <img> 
 
 
-## Raw Data with geolocation
-
-
-
 ## Relevant Articles
 
 [1] https://medium.com/@rawanme/u-k-traffic-accidents-data-analysis-10-years-c81293180ee5 2019
 
-https://towardsdatascience.com/mapping-the-uks-traffic-accident-hotspots-632b1129057b 2018
+[2] https://towardsdatascience.com/mapping-the-uks-traffic-accident-hotspots-632b1129057b 2018
 
 ## UK 
 [3] RoadSafety Data UK (most recent data)
