@@ -1,4 +1,4 @@
-# This githib is forked from joafig
+# This github is forked from joafig
 
 It is a study on the UK accidents database
 
@@ -30,8 +30,11 @@ https://data.gov.uk/dataset/cb7ae6f0-4be6-4935-9277-47e5ce24a11f/road-safety-dat
 The same data you can find on kaggle (but not the most recent years)
 https://www.kaggle.com/daveianhickey/2000-16-traffic-flow-england-scotland-wales
 
+
+
 ## France: 
 https://www.data.gouv.fr/en/datasets/base-de-donnees-accidents-corporels-de-la-circulation/
+Download lieux-2018.csv
 
 
 
