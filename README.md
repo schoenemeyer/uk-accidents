@@ -28,6 +28,7 @@ You can run the notebook on multiple years or single years. The figure below sho
 <img src="https://github.com/schoenemeyer/uk-accidents/blob/master/figures/6years-uk-acc.PNG" width="580"> <img> 
 
 
+You can also download the data 
 
 
 ## Raw Data with geolocation
