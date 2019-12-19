@@ -1,4 +1,5 @@
-# This github is forked from joafig
+# This github is forked from João Paulo Figueira
+Inspired from a great article on medium [1]
 
 It is a study on the UK accidents database
 I added data for 2017 and 2018 
@@ -22,33 +23,32 @@ CUDA Driver 410.73
 
 Clustering Data for one year typically takes roughly 12 sec wallclock; creating the list of cluster blobs takes typically a few seconds.
 
-For this test UK RoadSafety Data were used from the link below [1]. 
+For this test UK RoadSafety Data were used from the link below [3]. 
 You can run the notebook on multiple years or single years. The figure below shows the outcome for 6 years for a particular area in London    
 
 <img src="https://github.com/schoenemeyer/uk-accidents/blob/master/figures/6years-uk-acc.PNG" width="580"> <img> 
 
 
-You can also download the data from France.
-You can use the fr-accident-map.ipynb 
+You can also download the data from France [4] . You can use the fr-accident-map.ipynb. For the year 2018 you can focus on Paris and you will get this result:
 
 <img src="https://github.com/schoenemeyer/uk-accidents/blob/master/figures/fr-2018.png" width="580"> <img> 
 
 
 ## Raw Data with geolocation
 
+
+
+## Relevant Articles
+
+[1] https://medium.com/@rawanme/u-k-traffic-accidents-data-analysis-10-years-c81293180ee5 2019
+
+https://towardsdatascience.com/mapping-the-uks-traffic-accident-hotspots-632b1129057b 2018
+
 ## UK 
-[1] RoadSafety Data UK (most recent data)
+[3] RoadSafety Data UK (most recent data)
 https://data.gov.uk/dataset/cb7ae6f0-4be6-4935-9277-47e5ce24a11f/road-safety-data, the same data you can find on kaggle (but not the most recent years) : https://www.kaggle.com/daveianhickey/2000-16-traffic-flow-england-scotland-wales
 
-
-
-
 ## France (ONISR)
-https://www.data.gouv.fr/en/datasets/base-de-donnees-accidents-corporels-de-la-circulation/    
+[4] https://www.data.gouv.fr/en/datasets/base-de-donnees-accidents-corporels-de-la-circulation/    
 Download caracteristiques-2018.csv
-
-
-
-
-
  
