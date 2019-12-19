@@ -1,7 +1,6 @@
 # This github is forked from joafig
 
 It is a study on the UK accidents database
-
 I added data for 2017 and 2018 
 My Testing Environment (Python2.7)
 
@@ -16,6 +15,8 @@ geopandas: 0.6.2
 
 GPU equipped Workstation 1 x AMD FX-6300 6c with 1 x NVIDIA GTX 1050Ti running under CentOS 7.4, 16GB RAM
 CUDA Driver 410.73 
+
+## First test using DBSCAN
 
 (1) uk-accident-map.ipynb
 
