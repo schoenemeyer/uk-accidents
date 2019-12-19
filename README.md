@@ -1,6 +1,8 @@
-# uk-accidents
-Study of the UK accidents database
+# This githib is forked from joafig
 
+It is a study on the UK accidents database
+
+I added data for 2017 and 2018 
 My Testing Environment (Python2.7)
 
 Python 2.7
@@ -21,11 +23,16 @@ Clustering Data took 25 sec wallclock
 Create the list of cluster blobs 11 sec wallclock
 
 ## Raw Data with geolocation
+
+## UK 
 RoadSafety Data UK (most recent data)
 https://data.gov.uk/dataset/cb7ae6f0-4be6-4935-9277-47e5ce24a11f/road-safety-data   
-
-(Same) data on kaggle
+The same data you can find on kaggle (but not the most recent years)
 https://www.kaggle.com/daveianhickey/2000-16-traffic-flow-england-scotland-wales
+
+## France: 
+https://www.data.gouv.fr/en/datasets/base-de-donnees-accidents-corporels-de-la-circulation/
+
 
 
 
