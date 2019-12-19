@@ -13,7 +13,7 @@ sklearn: 0.20.3
 pandas: 0.23.4
 geopandas: 0.6.2
 
-GPU equipped Workstation 1 x AMD FX-6300 6c with 1 x NVIDIA GTX 1050Ti running under CentOS 7.4, 16GB RAM
+My workstation: 1 x AMD FX-6300 6c with 1 x NVIDIA GTX 1050Ti running under CentOS 7.4, 32GB RAM
 CUDA Driver 410.73 
 
 ## First test using DBSCAN
