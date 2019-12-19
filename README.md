@@ -39,11 +39,13 @@ You can also download the data from France [4] . You can use the fr-accident-map
 
 [2] https://towardsdatascience.com/mapping-the-uks-traffic-accident-hotspots-632b1129057b 2018
 
-## UK 
+## Data Source with geolocations
+
+# UK 
 [3] RoadSafety Data UK (most recent data)
 https://data.gov.uk/dataset/cb7ae6f0-4be6-4935-9277-47e5ce24a11f/road-safety-data, the same data you can find on kaggle (but not the most recent years) : https://www.kaggle.com/daveianhickey/2000-16-traffic-flow-england-scotland-wales
 
-## France (ONISR)
+# France (ONISR)
 [4] https://www.data.gouv.fr/en/datasets/base-de-donnees-accidents-corporels-de-la-circulation/    
 Download caracteristiques-2018.csv
  
