@@ -48,4 +48,8 @@ https://data.gov.uk/dataset/cb7ae6f0-4be6-4935-9277-47e5ce24a11f/road-safety-dat
 # France (ONISR)
 [4] https://www.data.gouv.fr/en/datasets/base-de-donnees-accidents-corporels-de-la-circulation/    
 Download caracteristiques-2018.csv
- 
+
+Other classifications are also under investigation 
+
+https://medium.com/@rawanme/u-k-traffic-accidents-data-analysis-10-years-c81293180ee5
+
