@@ -16,6 +16,17 @@ geopandas: 0.6.2
 My workstation: 1 x AMD FX-6300 6c with 1 x NVIDIA GTX 1050Ti running under CentOS 7.4, 32GB RAM
 CUDA Driver 410.73 
 
+CAUTION FOR PYTHON3!: After installing geopandas you will have the pyproj package release 2.2.x or higher. This will slow down the execution of the code below by magnitudes, regardless of using python2 or python3. The code makes use of the transformer module described https://pyproj4.github.io/pyproj/v2.2.0rel/api/transformer.html.
+
+
+Please downgrade to pyproj release 1.9.5.1 like shown below. Check your current pyproj version, which is very likely 2.2.x or higher with 
+```
+conda list | grep pyproj
+```
+and then downgrade
+```
+conda install -c conda-forge pyproj==1.9.5.1
+```
 ## First test using DBSCAN
 
 (1) uk-accident-map.ipynb
